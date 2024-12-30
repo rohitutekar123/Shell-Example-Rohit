@@ -1,4 +1,7 @@
->> First-shell.sh -> Print name using echo
+>> First-demo.sh -> Print name using echo
 
 
->> Second-shell.sh -> Making directory using mkdir and inside directory create two files
+>> Second-demo.sh -> Making directory using mkdir and inside directory create two files
+
+
+>> Third-demo.sh -> Checking the health of CPU, Disk and Memory
