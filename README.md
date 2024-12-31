@@ -5,3 +5,4 @@
 
 
 >> Third-demo.sh -> Checking the health of CPU, Disk and Memory
+                 -> Use of set operation set -x set -o and set -e
